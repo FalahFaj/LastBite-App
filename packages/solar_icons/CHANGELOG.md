@@ -1,0 +1,20 @@
+## 0.0.1
+
+* Solar Icons release
+
+## 0.0.2
+
+* README update
+
+## 0.0.3
+
+* Breaking change with icon names
+
+## 0.0.4
+
+* README update
+
+## 0.0.5
+
+* Breaking change with icon names
+* README improvements
